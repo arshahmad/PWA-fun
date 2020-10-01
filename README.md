@@ -1,7 +1,8 @@
-# PwaApp
+# PWA WebApp
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.1.2.
 This project is used by mobile applications.
+This Project uses Joke API to give random jokes.
 
 ## Development server
 
